@@ -8,6 +8,7 @@ using System.Windows.Forms;
 
 namespace Malovani
 {
+    // zmena
     public static class Soubor
     {
         public static Bitmap Otevri(PictureBox picturebox, Bitmap bmp)

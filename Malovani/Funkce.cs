@@ -12,6 +12,7 @@ namespace Malovani
         Guma,
         Usecka,
         Oval,
-        Ctverec
+        Ctverec,
+        Trojuhelnik
     }
 }
